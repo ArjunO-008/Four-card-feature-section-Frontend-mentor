@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-frontend-mentor-NhOmAdM8aa)
-- Live Site URL: [Add live site URL here](https://arjuno-008.github.io/Four-card-feature-section-Frontend-mentor/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/four-card-feature-section-frontend-mentor-NhOmAdM8aa)
+- Live Site URL: [Click here](https://arjuno-008.github.io/Four-card-feature-section-Frontend-mentor/)
 
 
 
